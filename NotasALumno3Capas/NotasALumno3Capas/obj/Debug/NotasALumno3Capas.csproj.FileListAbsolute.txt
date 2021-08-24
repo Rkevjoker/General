@@ -1,0 +1,7 @@
+C:\Users\Rkev\OneDrive\Escritorio\POO\General\NotasALumno3Capas\NotasALumno3Capas\bin\Debug\NotasALumno3Capas.exe.config
+C:\Users\Rkev\OneDrive\Escritorio\POO\General\NotasALumno3Capas\NotasALumno3Capas\bin\Debug\NotasALumno3Capas.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\General\NotasALumno3Capas\NotasALumno3Capas\bin\Debug\NotasALumno3Capas.pdb
+C:\Users\Rkev\OneDrive\Escritorio\POO\General\NotasALumno3Capas\NotasALumno3Capas\obj\Debug\NotasALumno3Capas.csproj.AssemblyReference.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\General\NotasALumno3Capas\NotasALumno3Capas\obj\Debug\NotasALumno3Capas.csproj.CoreCompileInputs.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\General\NotasALumno3Capas\NotasALumno3Capas\obj\Debug\NotasALumno3Capas.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\General\NotasALumno3Capas\NotasALumno3Capas\obj\Debug\NotasALumno3Capas.pdb
